@@ -1,0 +1,14 @@
+{
+  "name": "databasemodel",
+  "version": "1.0.0",
+  "description": "data base model setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "raja",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^9.1.1"
+  }
+}
