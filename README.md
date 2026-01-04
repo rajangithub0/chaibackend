@@ -7,7 +7,7 @@ This project demonstrates how to connect a backend built with Express.js to a fr
 ## Install
 
 ```bash
-npm install mongoose express cors
+npm install mongoose 
 ```
 
 ## Mongoose Connection
